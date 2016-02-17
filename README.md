@@ -21,10 +21,22 @@
 > __Documentation__: http://docs.emmet.io/
 
 ###### CSS & CSS3
+
+> #### [CSS3 v1.2.19](github.com/y0ssar1an/CSS3)
+> The most complete __CSS__ support for Sublime Text 3
+
+> #### [Bootstrap 3 Snippets v1.1.7](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+> Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3 
+
 ###### AngularJS
 
 > #### [AngularJS v1.2.1](https://github.com/angular-ui/AngularJS-sublime-package)
 > __AngularJS__ code completion, snippets, go to definition, quick panel search, and more.
+
+###### JavaScript & jQuery
+
+> #### [jQuery v2015.09.02.08.19.54](https://github.com/SublimeText/jQuery)
+> Sublime Text package bundle for __jQuery__
 
 ### FRAMEWORK
 ##### Laravel
@@ -65,6 +77,9 @@
 
 > #### [BracketHighlighter v2.11.1](github.com/facelessuser/BracketHighlighter)
 > Bracket and tag highlighter for Sublime Text
+
+> #### [Color Highlighter v2016.02.11.13.53.03](https://sublime.wbond.net/packages/Color%20Highlighter)
+> __ColorHighlighter__ - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal __colorcodes__ (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds __color__ picker to easily modify __colors__.
 
 > #### [DashDoc v1.4.4 (Mac Only)](github.com/farcaller/DashDoc)
 > Open the selected text or text under cursor in Dash documentation browser
