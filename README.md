@@ -73,7 +73,7 @@
 > #### [AdvancedNewFile v1.7.0](github.com/skuroda/Sublime-AdvancedNewFile)
 > File creation plugin for Sublime Text 2 and Sublime Text 3.
 >
-> __Signature feature__: Create new files from active/main project directory (default): CTRL+SHIFT+N (Windows) or CMD+ALT+N (Mac)
+> __Signature feature__: Create new files from active/main project directory (default): CTRL+ALT+N (Windows) or CMD+ALT+N (Mac)
 
 > #### [BracketHighlighter v2.11.1](github.com/facelessuser/BracketHighlighter)
 > Bracket and tag highlighter for Sublime Text
