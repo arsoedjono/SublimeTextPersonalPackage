@@ -26,7 +26,16 @@
 > The most complete __CSS__ support for Sublime Text 3
 
 > #### [Bootstrap 3 Snippets v1.1.7](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
-> Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3 
+> Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3
+
+> #### [LESS v2014.08.31.22.28.34](https://sublime.wbond.net/packages/LESS)
+> LESS syntax highlighting for Sublime Text.
+
+> #### [Sass v2015.06.09.15.02.18](https://github.com/nathos/sass-textmate-bundle)
+> Sass support for TextMate & Sublime Text (2 & 3)
+
+> #### [SCSS v2014.05.06.21.49.01](https://github.com/MarioRicalde/SCSS.tmbundle)
+> The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
 
 ###### AngularJS
 
