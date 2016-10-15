@@ -5,6 +5,13 @@
 ##### Objective-C
 ##### PHP
 ##### Python
+
+> #### [Anaconda v2.1.3](http://damnwidget.github.io/anaconda/)
+> Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3
+>
+> Turn off this package linter if you use any other linters
+> __Sublime > Preferences > Package Settings > Anaconda > Settings – User__: `{"anaconda_linting": false}`
+
 ##### Ruby
 
 > #### [SublimeLinter-ruby v1.0.17](https://github.com/SublimeLinter/SublimeLinter-ruby)
