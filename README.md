@@ -32,6 +32,11 @@
 
 ##### Ruby
 
+> #### [Pretty Ruby](https://github.com/gbaptista/sublime-3-pretty-ruby) (used)
+> Use Ruby PP and RuboCop Autocorrect to indent, format and prettify your Ruby code.
+>
+> Dependency: **Ruby** & **rubocop** (`gem install rubocop`) 
+
 > #### [SublimeLinter-rubocop](https://github.com/SublimeLinter/SublimeLinter-rubocop) (used)
 > SublimeLinter 3 plugin for Ruby, using rubocop.
 
