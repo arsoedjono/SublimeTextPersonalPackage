@@ -1,6 +1,11 @@
 # SKILLS
 
 ### PROGRAMMING
+##### Brainfuck
+
+> #### [Brainfuck](https://github.com/Drako/SublimeBrainfuck)
+> Brainfuck language support for Sublime Text
+
 ##### JSON
 
 > #### [JSONLint](https://bitbucket.org/hmml/jsonlint) (used)
