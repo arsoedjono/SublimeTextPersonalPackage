@@ -6,7 +6,7 @@
 > #### [Brainfuck](https://github.com/Drako/SublimeBrainfuck)
 > Brainfuck language support for Sublime Text
 
-###### C/C++
+##### C/C++
 
 > #### [SublimeLinter-cppcheck](https://github.com/SublimeLinter/SublimeLinter-cppcheck)
 > This linter plugin for SublimeLinter provides an interface to cppcheck.
