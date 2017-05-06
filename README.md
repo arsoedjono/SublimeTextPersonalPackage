@@ -6,6 +6,14 @@
 > #### [Brainfuck](https://github.com/Drako/SublimeBrainfuck)
 > Brainfuck language support for Sublime Text
 
+###### C/C++
+
+> #### [SublimeLinter-cppcheck](https://github.com/SublimeLinter/SublimeLinter-cppcheck)
+> This linter plugin for SublimeLinter provides an interface to cppcheck.
+
+> #### [SublimeLinter-cpplint](https://github.com/SublimeLinter/SublimeLinter-cpplint)
+> This linter plugin for SublimeLinter provides an interface to cpplint.
+
 ##### JSON
 
 > #### [JSONLint](https://bitbucket.org/hmml/jsonlint) (used)
